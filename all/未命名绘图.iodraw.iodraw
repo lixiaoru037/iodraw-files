@@ -47,10 +47,10 @@
           <mxGeometry x="699" y="140" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DESeq2 R package&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;|Log2FC|&lt;u style=&quot;font-size: 8px;&quot;&gt;&amp;gt;&lt;/u&gt;0.5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;padj&amp;lt;0.0&lt;/font&gt;5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="394" y="100" width="90" height="40" as="geometry" />
+          <mxGeometry x="454" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-15" value="Genes positively associated with&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;glycolipid metabolism&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="560" y="167" width="90" height="30" as="geometry" />
+          <mxGeometry x="613" y="166" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
