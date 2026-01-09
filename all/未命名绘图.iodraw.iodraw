@@ -47,7 +47,7 @@
           <mxGeometry x="699" y="140" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;DESeq2 R package&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;|Log2FC|&lt;u style=&quot;font-size: 8px;&quot;&gt;&amp;gt;&lt;/u&gt;0.5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;padj&amp;lt;0.0&lt;/font&gt;5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="454" y="100" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-15" value="Genes positively associated with&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;glycolipid metabolism&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="613" y="166" width="90" height="30" as="geometry" />
@@ -243,7 +243,7 @@
           <mxGeometry x="581.5" y="520" width="102.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-76" value="Molecular dynamics simulation" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="548.75" y="570" width="120" height="27" as="geometry" />
+          <mxGeometry x="566.75" y="570" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-85" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;scRNA：GSE233511&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Glycolipid metabolism score&lt;/div&gt;&lt;div&gt;Feature gene score&lt;/div&gt;&lt;div&gt;CellChat&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monocle&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacingTop=1;spacingBottom=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="414" width="161" height="86" as="geometry" />
