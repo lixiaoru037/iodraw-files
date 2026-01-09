@@ -208,7 +208,7 @@
             <mxPoint x="520.61" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-55" value="Genes positively associated with&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;glycolipid metabolism&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-55" value="Expression level&lt;div&gt;validation in GSE43974&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
