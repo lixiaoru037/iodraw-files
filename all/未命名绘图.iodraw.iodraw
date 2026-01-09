@@ -222,6 +222,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-59" value="&lt;p style=&quot;&quot;&gt;8 Feature genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486" y="450" width="116" height="25" as="geometry" />
         </mxCell>
@@ -247,6 +250,9 @@
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-85" target="y5L3ZxZ3XgiTwmqtyIEE-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-94" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;scRNA：GSE233511&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Glycolipid metabolism score&lt;/div&gt;&lt;div&gt;Feature gene score&lt;/div&gt;&lt;div&gt;CellChat&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monocle&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacingTop=1;spacingBottom=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="161" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
