@@ -199,8 +199,8 @@
             <mxPoint x="521.01" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-53" value="&lt;p style=&quot;&quot;&gt;Candidate genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="395" width="93" height="25" as="geometry" />
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-53" value="&lt;p style=&quot;&quot;&gt;10 Candidate genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="395" width="116" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-55" value="Expression level&lt;div&gt;validation in GSE43974&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="523.5" y="419" width="90" height="30" as="geometry" />
@@ -210,9 +210,6 @@
             <mxPoint x="519.87" y="420" as="sourcePoint" />
             <mxPoint x="519.81" y="450" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-58" value="&lt;p style=&quot;&quot;&gt;Candidate genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="450" width="93" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
