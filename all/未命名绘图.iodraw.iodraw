@@ -46,8 +46,8 @@
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-13" value="&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Immune Cell Infiltration&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699" y="140" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="108" width="50" height="30" as="geometry" />
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-14" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;DESeq2 R package&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;|Log2FC|&amp;gt;0.5&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;padj&amp;lt;0.0&lt;/font&gt;5&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="98" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
