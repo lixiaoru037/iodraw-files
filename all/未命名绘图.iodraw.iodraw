@@ -50,7 +50,7 @@
           <mxGeometry x="394" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-15" value="Genes positively associated with&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;glycolipid metabolism&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="592" y="167" width="90" height="30" as="geometry" />
+          <mxGeometry x="560" y="167" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
