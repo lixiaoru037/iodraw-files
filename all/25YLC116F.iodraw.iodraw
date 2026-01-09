@@ -200,7 +200,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-53" value="&lt;p style=&quot;&quot;&gt;10 Candidate feature genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="486" y="395" width="116" height="25" as="geometry" />
+          <mxGeometry x="467.25" y="394" width="154" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-55" value="Expression level&lt;div&gt;validation in GSE43974&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="547.5" y="419" width="90" height="30" as="geometry" />
