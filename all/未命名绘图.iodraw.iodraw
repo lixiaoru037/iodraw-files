@@ -203,12 +203,12 @@
           <mxGeometry x="477" y="395" width="87.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-55" value="Expression level&lt;div&gt;validation in GSE43974&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="90" height="30" as="geometry" />
+          <mxGeometry x="517.5" y="416" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-56" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="531.07" y="375" as="sourcePoint" />
-            <mxPoint x="531.01" y="405" as="targetPoint" />
+            <mxPoint x="519.87" y="420" as="sourcePoint" />
+            <mxPoint x="519.81" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
