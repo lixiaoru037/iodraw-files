@@ -240,8 +240,8 @@
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-85" target="y5L3ZxZ3XgiTwmqtyIEE-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-94" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;stRNA：GSE233512&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Glycolipid metabolism score&lt;/div&gt;&lt;div&gt;Feature gene score&lt;/div&gt;&lt;div&gt;CellChat&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacingTop=1;spacingBottom=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="493.5" width="161" height="86" as="geometry" />
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-94" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;stRNA：GSE233512&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Glycolipid metabolism score&lt;/div&gt;&lt;div&gt;Expression of Feature genes&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;spacingTop=1;spacingBottom=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="493.5" width="161" height="76.5" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-97" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
