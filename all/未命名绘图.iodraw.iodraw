@@ -211,16 +211,7 @@
             <mxPoint x="519.81" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-62">
+        <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y5L3ZxZ3XgiTwmqtyIEE-59" target="y5L3ZxZ3XgiTwmqtyIEE-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y5L3ZxZ3XgiTwmqtyIEE-59" value="&lt;p style=&quot;&quot;&gt;8 Feature genes&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
