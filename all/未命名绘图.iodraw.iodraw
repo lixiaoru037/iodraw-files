@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-1" value="Gene Card&lt;div style=&quot;font-size: 14px;&quot;&gt;Citrullination genes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="135" width="130" height="50" as="geometry" />
+          <mxGeometry x="315" y="135" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-2" target="xFkqYFoVHgoFOGwPeoOl-3">
           <mxGeometry relative="1" as="geometry" />
