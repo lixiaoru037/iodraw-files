@@ -49,11 +49,14 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-14" value="Highly correlated genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-16" value="&amp;nbsp;|corr|&amp;gt;0.9&amp;amp;pvalue&amp;lt;0.05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="250" width="100" height="30" as="geometry" />
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-16" value="&amp;nbsp;|corr|&amp;gt;0.9&amp;amp;pvalue&amp;lt;0.05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-19" value="&amp;nbsp;|corr|&amp;gt;0.9&amp;amp;pvalue&amp;lt;0.05" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
