@@ -109,7 +109,7 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-35" value="&lt;div&gt;Expression level validation in GSE30655&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="484" y="470" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-36" value="GSEA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="560" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
