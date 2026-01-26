@@ -27,8 +27,11 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-5" value="DESeq2&amp;nbsp;&lt;div&gt;|Log2Fold Change|&lt;u&gt;&amp;gt;&lt;/u&gt;1 &amp;amp;padj&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537" y="101" width="165" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-7" target="xFkqYFoVHgoFOGwPeoOl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="Overlap gene" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="230" width="90" height="20" as="geometry" />
+          <mxGeometry x="435" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -39,6 +42,9 @@
               <mxPoint x="550" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
