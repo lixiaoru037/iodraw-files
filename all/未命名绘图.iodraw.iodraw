@@ -16,6 +16,9 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-2" value="GSE137482" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="50" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-3" target="xFkqYFoVHgoFOGwPeoOl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-3" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="140" width="80" height="40" as="geometry" />
         </mxCell>
@@ -23,7 +26,7 @@
           <mxGeometry x="537" y="101" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
