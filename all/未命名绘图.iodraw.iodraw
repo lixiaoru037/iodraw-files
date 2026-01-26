@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-1" target="xFkqYFoVHgoFOGwPeoOl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-1" value="Gene Card&lt;div style=&quot;font-size: 14px;&quot;&gt;Citrullination gene&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="135" width="120" height="50" as="geometry" />
         </mxCell>
@@ -18,6 +21,9 @@
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-5" value="DESeq2&amp;nbsp;&lt;div&gt;|Log2Fold Change|&lt;u&gt;&amp;gt;&lt;/u&gt;1 &amp;amp;padj&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537" y="101" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
