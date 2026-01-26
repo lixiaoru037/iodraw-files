@@ -19,7 +19,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-2" value="GSE137482" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="50" width="100" height="40" as="geometry" />
+          <mxGeometry x="500" y="70" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-3" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="80" height="30" as="geometry" />
