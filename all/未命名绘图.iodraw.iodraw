@@ -35,7 +35,7 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-5" value="DESeq2&amp;nbsp;&lt;div&gt;|Log2Fold Change|&lt;u&gt;&amp;gt;&lt;/u&gt;1 &amp;amp;padj&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="537" y="101" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="Overlap gene" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
