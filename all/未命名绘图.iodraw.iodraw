@@ -19,12 +19,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-2" value="GSE137482" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="70" width="100" height="30" as="geometry" />
+          <mxGeometry x="510" y="70" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-3" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-5" value="DESeq2&amp;nbsp;&lt;div&gt;|Log2Fold Change|&lt;u&gt;&amp;gt;&lt;/u&gt;1 &amp;amp;padj&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-5" value="DESeq2&amp;nbsp;&lt;div style=&quot;font-size: 10px;&quot;&gt;|Log2Fold Change|&lt;u style=&quot;font-size: 10px;&quot;&gt;&amp;gt;&lt;/u&gt;1 &amp;amp;padj&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="530" y="110" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-7" target="xFkqYFoVHgoFOGwPeoOl-14">
