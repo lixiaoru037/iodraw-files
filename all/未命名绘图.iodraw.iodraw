@@ -7,8 +7,8 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-1" value="Gene Card&lt;div style=&quot;font-size: 14px;&quot;&gt;Citrullination gene&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-2" value="Gene Card&lt;div style=&quot;font-size: 14px;&quot;&gt;Citrullination gene&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="40" width="120" height="50" as="geometry" />
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-2" value="GSE137482" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="40" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
