@@ -115,9 +115,9 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-39" value="Molecular docking" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="504" y="560" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="xFkqYFoVHgoFOGwPeoOl-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="570" as="sourcePoint" />
+            <mxPoint x="560" y="540" as="sourcePoint" />
             <mxPoint x="560" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
