@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Y9wYgSfYJshQxf-atesp">
-    <mxGraphModel dx="369" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B9E0A5" math="0" shadow="0">
+    <mxGraphModel dx="527" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#B9E0A5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +30,7 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-7" target="xFkqYFoVHgoFOGwPeoOl-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="Overlap gene" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-7" value="Overlap genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="435" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
