@@ -100,7 +100,7 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-32" value="&lt;div&gt;LASSO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="484" y="417" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xFkqYFoVHgoFOGwPeoOl-33" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="xFkqYFoVHgoFOGwPeoOl-33" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="532.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
