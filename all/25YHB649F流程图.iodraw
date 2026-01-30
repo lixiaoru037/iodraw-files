@@ -127,12 +127,12 @@
         <mxCell id="Cbi6YECzTAcf5rvM28ZS-1" value="Molecular docking" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="106" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Cbi6YECzTAcf5rvM28ZS-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Cbi6YECzTAcf5rvM28ZS-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Cbi6YECzTAcf5rvM28ZS-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="555" as="sourcePoint" />
-            <mxPoint x="544" y="570" as="targetPoint" />
+            <mxPoint x="531" y="545" as="sourcePoint" />
+            <mxPoint x="585" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="544" y="555" />
+              <mxPoint x="585" y="545" />
             </Array>
           </mxGeometry>
         </mxCell>
