@@ -100,6 +100,9 @@
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-32" value="&lt;div&gt;LASSO&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="484" y="417" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Cbi6YECzTAcf5rvM28ZS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFkqYFoVHgoFOGwPeoOl-33" target="xFkqYFoVHgoFOGwPeoOl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-33" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="500" width="100" height="25" as="geometry" />
         </mxCell>
@@ -137,12 +140,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="478.96" y="550" as="sourcePoint" />
             <mxPoint x="478.96" y="525" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cbi6YECzTAcf5rvM28ZS-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425" y="537.5" as="sourcePoint" />
-            <mxPoint x="375" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
