@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Y9wYgSfYJshQxf-atesp">
-    <mxGraphModel dx="213" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="527" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="548.7638095238095" as="sourcePoint" />
-            <mxPoint x="368" y="596.24" as="targetPoint" />
+            <mxPoint x="425" y="548.7638095238095" as="sourcePoint" />
+            <mxPoint x="363" y="596.24" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-33" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
