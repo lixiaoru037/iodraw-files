@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="Cbi6YECzTAcf5rvM28ZS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="427" y="525" as="sourcePoint" />
-            <mxPoint x="425" y="560" as="targetPoint" />
+            <mxPoint x="430" y="540" as="sourcePoint" />
+            <mxPoint x="360" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xFkqYFoVHgoFOGwPeoOl-33" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
