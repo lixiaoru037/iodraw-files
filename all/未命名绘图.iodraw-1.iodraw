@@ -185,10 +185,10 @@
           <mxGeometry x="357" y="558" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-76" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="782" width="90" height="30" as="geometry" />
+          <mxGeometry x="354" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-77" value="66 Candidate genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="583" width="89" height="37" as="geometry" />
+          <mxGeometry x="355" y="583" width="89" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-84" target="-ZD2AStBiouIUjvWyETy-85">
           <mxGeometry relative="1" as="geometry" />
