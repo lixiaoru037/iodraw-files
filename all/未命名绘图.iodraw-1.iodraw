@@ -181,7 +181,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-75" value="overlap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-75" value="overlap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="357" y="558" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-76" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -200,7 +200,7 @@
           <mxGeometry x="368" y="507" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-86" value="DESeq 2&lt;div style=&quot;font-size: 7px;&quot;&gt;|Log2FC|&lt;u style=&quot;font-size: 7px;&quot;&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="332" y="467" width="70" height="40" as="geometry" />
+          <mxGeometry x="338" y="467" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-91" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="70" y="422" width="90" height="90" as="geometry" />
