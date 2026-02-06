@@ -198,8 +198,16 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-53" value="FindMarker" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="405" y="567" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-54" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-54" value="GSE98408" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-55" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="610" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
