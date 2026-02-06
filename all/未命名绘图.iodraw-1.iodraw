@@ -133,10 +133,10 @@
           <mxGeometry x="247.5" y="520" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-33" value="Monocle3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="520" width="70" height="30" as="geometry" />
+          <mxGeometry x="145" y="520" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-35" value="Cellchat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="441" y="526.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="345" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-37" value="ABCC3+Macrophages" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="460" width="130" height="30" as="geometry" />
