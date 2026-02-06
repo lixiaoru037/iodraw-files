@@ -215,16 +215,16 @@
           <mxGeometry x="405" y="355" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-91" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="61" y="440" width="90" height="90" as="geometry" />
+          <mxGeometry x="70" y="422" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-92" value="Monocle3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="450" width="70" height="20" as="geometry" />
+          <mxGeometry x="79" y="432" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-93" value="SCENIC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="477" width="70" height="20" as="geometry" />
+          <mxGeometry x="79" y="459" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-94" value="CellChat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="70.5" y="505" width="69" height="20" as="geometry" />
+          <mxGeometry x="79.5" y="487" width="69" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
