@@ -184,6 +184,9 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-39" value="AUCell" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="394" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-51" value="Cellchat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="547" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
