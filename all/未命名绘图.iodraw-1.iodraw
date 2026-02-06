@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-1" value="GSE253198" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="50" width="100" height="30" as="geometry" />
+          <mxGeometry x="230" y="57" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-2" target="-ZD2AStBiouIUjvWyETy-7">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-19" value="Gene Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="50" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="57" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-20" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="100" height="30" as="geometry" />
@@ -203,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-54" value="GSE98408" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="467" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="582" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-55">
           <mxGeometry relative="1" as="geometry">
@@ -211,13 +211,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-55" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="537" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="652" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-59" value="DESeq 2&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="500" y="492" width="80" height="50" as="geometry" />
+          <mxGeometry x="283" y="607" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-60" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="537" width="100" height="30" as="geometry" />
+          <mxGeometry x="180" y="652" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
