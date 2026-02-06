@@ -161,7 +161,7 @@
           <mxGeometry x="320" y="384" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-51" value="sc-DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="451" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="255" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-53" value="FindMarker&lt;div&gt;&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="357" y="422" width="80" height="50" as="geometry" />
@@ -225,6 +225,9 @@
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-94" value="CellChat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="79.5" y="487" width="69" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-37" target="-ZD2AStBiouIUjvWyETy-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
