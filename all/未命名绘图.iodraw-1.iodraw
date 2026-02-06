@@ -10,14 +10,15 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-1" value="GSE253198" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="30" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-ZD2AStBiouIUjvWyETy-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="160" as="sourcePoint" />
             <mxPoint x="210" y="235" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="161" />
               <mxPoint x="211" y="161" />
-              <mxPoint x="211" y="235" />
+              <mxPoint x="211" y="160" />
+              <mxPoint x="160" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
