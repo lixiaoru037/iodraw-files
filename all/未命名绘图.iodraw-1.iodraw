@@ -278,8 +278,8 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-118" value="KEGG" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="590" width="49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-122" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="805" width="100" height="30" as="geometry" />
+        <mxCell id="-ZD2AStBiouIUjvWyETy-122" value="Modecular docking" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="780" width="110.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
