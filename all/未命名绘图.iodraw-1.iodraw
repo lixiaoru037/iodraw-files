@@ -120,7 +120,7 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-34" value="AUCell" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-35" value="Cell Subpopulation Analysis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-35" value="Cellchat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="390" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
