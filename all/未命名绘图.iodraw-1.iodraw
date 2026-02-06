@@ -210,6 +210,9 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-59" value="DESeq 2&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="283" y="625" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-60" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
