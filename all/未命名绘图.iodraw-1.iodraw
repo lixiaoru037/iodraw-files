@@ -187,6 +187,9 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-76" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="640" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-77" target="-ZD2AStBiouIUjvWyETy-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-77" value="66 Candidate genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="583" width="89" height="35" as="geometry" />
         </mxCell>
@@ -226,6 +229,9 @@
               <mxPoint x="500" y="131" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-103" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="650" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
