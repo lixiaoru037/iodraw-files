@@ -58,9 +58,10 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-7" value="Augur" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-13">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.662;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="250" as="targetPoint" />
+            <mxPoint x="280" y="285" as="targetPoint" />
+            <mxPoint x="420" y="231" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-13" value="AUCell" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
