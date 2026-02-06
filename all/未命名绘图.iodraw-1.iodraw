@@ -45,10 +45,13 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-4" value="Cell Number Statistics" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="111" y="180" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="-ZD2AStBiouIUjvWyETy-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="279.75" y="240" as="targetPoint" />
             <mxPoint x="279.7500000000001" y="220.00000000000006" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="280" y="225" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-7" value="Augur" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -84,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
