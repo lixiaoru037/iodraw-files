@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TDumofC0ZUkkXgZ3_MZb">
-    <mxGraphModel dx="922" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,9 +236,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-103" target="-ZD2AStBiouIUjvWyETy-122">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-103" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="710" width="94" height="30" as="geometry" />
         </mxCell>
@@ -279,7 +276,7 @@
           <mxGeometry x="485" y="590" width="49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-122" value="Modecular docking" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="349.5" y="780" width="110.5" height="30" as="geometry" />
+          <mxGeometry x="344.25" y="780" width="110.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
