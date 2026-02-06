@@ -78,6 +78,11 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-19" value="Gene Cards" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="64" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="570.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-20" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="117" width="100" height="30" as="geometry" />
         </mxCell>
