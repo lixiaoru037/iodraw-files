@@ -194,10 +194,10 @@
           <mxGeometry x="320" y="384" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-51" value="sc-DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="527" width="60" height="30" as="geometry" />
+          <mxGeometry x="470" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-53" value="FindMarker&lt;div&gt;&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="402" y="454" width="80" height="50" as="geometry" />
+          <mxGeometry x="450" y="384" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-54" target="-ZD2AStBiouIUjvWyETy-55">
           <mxGeometry relative="1" as="geometry" />
