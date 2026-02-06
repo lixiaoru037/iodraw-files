@@ -230,6 +230,18 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-77" value="66 Candidate genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="718" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-84" target="-ZD2AStBiouIUjvWyETy-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-84" value="GSE98408" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-85" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="493.5" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-86" value="DESeq 2&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="446.5" y="555" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
