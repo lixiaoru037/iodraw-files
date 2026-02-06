@@ -242,12 +242,6 @@
             <mxPoint x="400.102" y="709.04" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-107" value="Monocle3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="693" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-108" value="SCENIC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="216" y="720" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="352" y="726" as="sourcePoint" />
@@ -256,6 +250,12 @@
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-110" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="640" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-111" value="Monocle3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-112" value="SCENIC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="677" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
