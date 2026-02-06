@@ -164,7 +164,7 @@
           <mxGeometry x="250" y="507" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-53" value="FindMarker&lt;div&gt;&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&amp;amp;&lt;span style=&quot;background-color: initial;&quot;&gt;pvalue&amp;lt;0.05&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="255" y="477" width="130" height="40" as="geometry" />
+          <mxGeometry x="275" y="472" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
