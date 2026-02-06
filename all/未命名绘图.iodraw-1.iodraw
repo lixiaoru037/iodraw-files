@@ -230,8 +230,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-103" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="364" y="650" width="90" height="30" as="geometry" />
+        <mxCell id="-ZD2AStBiouIUjvWyETy-103" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="700" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
