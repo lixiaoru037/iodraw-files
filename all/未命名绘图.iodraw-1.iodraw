@@ -193,7 +193,7 @@
           <mxGeometry x="320" y="394" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-51" value="sc-DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="582" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-53" value="FindMarker&lt;div&gt;&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="399" y="543" width="80" height="50" as="geometry" />
@@ -202,48 +202,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-54" value="GSE98408" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="582" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-55">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="745" as="targetPoint" />
+            <mxPoint x="360" y="727" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-55" value="DEGs" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="652" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-59" value="DESeq 2&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="283" y="625" width="80" height="50" as="geometry" />
+          <mxGeometry x="283" y="607" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-60" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="100" height="30" as="geometry" />
+          <mxGeometry x="180" y="652" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-73" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="720" as="sourcePoint" />
-            <mxPoint x="230" y="700" as="targetPoint" />
+            <mxPoint x="360" y="702" as="sourcePoint" />
+            <mxPoint x="230" y="682" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="720" />
+              <mxPoint x="230" y="702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="720" as="sourcePoint" />
-            <mxPoint x="470" y="630" as="targetPoint" />
+            <mxPoint x="360" y="702" as="sourcePoint" />
+            <mxPoint x="470" y="612" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="720" />
+              <mxPoint x="470" y="702" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-75" value="overlap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="355" y="720" width="50" height="20" as="geometry" />
+          <mxGeometry x="355" y="702" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-76" value="Mendelian randomization" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="810" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="792" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-77" value="66 Candidate genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="746" width="90" height="30" as="geometry" />
+          <mxGeometry x="315" y="728" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
