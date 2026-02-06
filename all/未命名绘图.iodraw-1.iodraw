@@ -211,7 +211,7 @@
           <mxGeometry x="283" y="625" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-60" value="Citrullination genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="120" width="100" height="30" as="geometry" />
+          <mxGeometry x="180" y="670" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
