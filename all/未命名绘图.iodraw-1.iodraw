@@ -282,10 +282,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-122" value="Modecular docking" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="483.38" y="710" width="110.5" height="30" as="geometry" />
+          <mxGeometry x="342.75" y="765" width="110.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-127" value="Modecular dynamics&lt;div&gt;simulation&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="480.005" y="766" width="117.25" height="50" as="geometry" />
+          <mxGeometry x="339.375" y="821" width="117.25" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
