@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TDumofC0ZUkkXgZ3_MZb">
-    <mxGraphModel dx="307" dy="169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
+    <mxGraphModel dx="442" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,9 +129,6 @@
         <mxCell id="-ZD2AStBiouIUjvWyETy-29" value="Cell Subpopulation Analysis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="322" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-35" value="CellChat" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="527" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-37" target="-ZD2AStBiouIUjvWyETy-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -216,9 +213,6 @@
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-86" value="DESeq 2&lt;div&gt;|Log2FC|&lt;u&gt;&amp;gt;&lt;/u&gt;0.5&lt;/div&gt;&lt;div&gt;pvalue&amp;lt;0.05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="405" y="355" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-ZD2AStBiouIUjvWyETy-89" value="Monocle3" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="527" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-91" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="61" y="440" width="90" height="90" as="geometry" />
