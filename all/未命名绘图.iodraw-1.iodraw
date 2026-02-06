@@ -236,6 +236,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-ZD2AStBiouIUjvWyETy-103" target="-ZD2AStBiouIUjvWyETy-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-103" value="3 Feature genes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="710" width="94" height="30" as="geometry" />
         </mxCell>
@@ -274,6 +277,9 @@
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-118" value="KEGG" style="whiteSpace=wrap;html=1;rounded=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="590" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-ZD2AStBiouIUjvWyETy-122" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="805" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
