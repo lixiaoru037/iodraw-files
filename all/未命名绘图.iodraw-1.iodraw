@@ -250,7 +250,7 @@
           <mxGeometry x="70" y="450" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-ZD2AStBiouIUjvWyETy-93" value="SCENIC" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="480" width="80" height="20" as="geometry" />
+          <mxGeometry x="72.5" y="480" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
