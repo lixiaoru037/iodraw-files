@@ -225,6 +225,14 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-71" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ligand-Receptor Colocalization Analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="544" y="193" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YuWj7eYWTTfTdzjNADIt-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="221" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-75" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ligand-Receptor Colocalization Analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="544" y="243" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
