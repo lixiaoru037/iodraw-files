@@ -110,7 +110,7 @@
           <mxGeometry x="110" y="310" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Genes highly related to&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Trogocytosis&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="320" width="80" height="30" as="geometry" />
+          <mxGeometry x="362" y="310" width="108" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
