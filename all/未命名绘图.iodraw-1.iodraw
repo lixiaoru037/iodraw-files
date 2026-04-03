@@ -195,6 +195,9 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;13 genes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="411.5" y="216" width="55" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59" target="YuWj7eYWTTfTdzjNADIt-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;6 Feature genes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.75" y="262" width="92.5" height="20" as="geometry" />
         </mxCell>
@@ -232,6 +235,9 @@
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-75" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Expression level validation&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="556" y="256" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59" target="YuWj7eYWTTfTdzjNADIt-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
