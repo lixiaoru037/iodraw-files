@@ -116,10 +116,10 @@
           <mxGeometry x="362" y="310" width="108" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="230" width="70" height="20" as="geometry" />
+          <mxGeometry x="480" y="220" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YuWj7eYWTTfTdzjNADIt-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="240" width="70" height="20" as="geometry" />
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-33" value="&lt;font face=&quot;Times New Roman&quot;&gt;DEGs&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="267" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
