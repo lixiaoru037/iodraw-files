@@ -187,7 +187,7 @@
           <mxGeometry x="489" y="173" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-50" value="Machine Learning" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="442" y="133" width="80" height="20" as="geometry" />
+          <mxGeometry x="441" y="143" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-54" target="YuWj7eYWTTfTdzjNADIt-59">
           <mxGeometry relative="1" as="geometry" />
@@ -203,6 +203,14 @@
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;GSEA&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Mendelian randomization&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Gene Colocalization&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;scTenifoldKnk&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="300" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="38" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
