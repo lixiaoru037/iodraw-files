@@ -198,7 +198,10 @@
           <mxGeometry x="488.75" y="272" width="92.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-61" value="Expression level validation&lt;div&gt;in GSE150910&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="420" y="246" width="110" height="30" as="geometry" />
+          <mxGeometry x="430" y="244" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-62" value="&lt;font face=&quot;Times New Roman&quot;&gt;6 Feature genes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498.75" y="282" width="92.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
