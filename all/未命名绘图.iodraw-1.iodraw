@@ -167,7 +167,7 @@
           <mxGeometry x="585" y="183" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-50" value="Machine Learning" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacing=0;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="555" y="140" width="80" height="20" as="geometry" />
+          <mxGeometry x="585" y="135" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
