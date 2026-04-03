@@ -239,8 +239,8 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59" target="YuWj7eYWTTfTdzjNADIt-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YuWj7eYWTTfTdzjNADIt-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;6 Feature genes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.75" y="272" width="92.5" height="20" as="geometry" />
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Herb2.0 dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398.75" y="403" width="92.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
