@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-1" value="GSE136831" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="140" y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-3" target="YuWj7eYWTTfTdzjNADIt-10">
           <mxGeometry relative="1" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-4" value="Gene Cards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="20" width="90" height="30" as="geometry" />
+          <mxGeometry x="300" y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-5" target="YuWj7eYWTTfTdzjNADIt-9">
           <mxGeometry relative="1" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;Genes highly related to&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Trogocytosis (1276)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="310" width="108" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;Genes highly related to&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Trogocytosis (1276)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="320" width="108" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
