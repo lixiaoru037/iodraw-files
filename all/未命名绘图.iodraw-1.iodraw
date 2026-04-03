@@ -216,11 +216,14 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-66" value="Quality control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="564" y="86" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-69" target="YuWj7eYWTTfTdzjNADIt-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-69" value="&lt;span style=&quot;text-align: left;&quot;&gt;Integrated Analysis with scRNA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="141" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-71" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ligand-Receptor Colocalization Analysis&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="544" y="189" width="130" height="30" as="geometry" />
+          <mxGeometry x="544" y="193" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
