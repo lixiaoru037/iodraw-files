@@ -198,14 +198,8 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59" target="YuWj7eYWTTfTdzjNADIt-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YuWj7eYWTTfTdzjNADIt-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="439" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="439" y="330" />
-              <mxPoint x="439" y="330" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuWj7eYWTTfTdzjNADIt-59" target="YuWj7eYWTTfTdzjNADIt-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-59" value="&lt;font face=&quot;Times New Roman&quot;&gt;6 Feature genes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.75" y="262" width="92.5" height="20" as="geometry" />
@@ -249,6 +243,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YuWj7eYWTTfTdzjNADIt-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Herb2.0 dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392.75" y="330" width="92.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-84" value="&lt;font face=&quot;Times New Roman&quot;&gt;Herb2.0 dataset&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.75" y="330" width="92.5" height="20" as="geometry" />
         </mxCell>
       </root>
