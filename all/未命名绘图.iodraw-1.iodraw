@@ -213,8 +213,8 @@
         <mxCell id="YuWj7eYWTTfTdzjNADIt-66" value="Quality control" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="138" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YuWj7eYWTTfTdzjNADIt-68" value="Integrated Analysis with scRNA" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="590" y="210" width="200" height="40" as="geometry" />
+        <mxCell id="YuWj7eYWTTfTdzjNADIt-69" value="&lt;span style=&quot;text-align: left;&quot;&gt;Integrated Analysis with scRNA&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
