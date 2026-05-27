@@ -38,6 +38,9 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-4" target="ilyXJhKC4yc5B9A9WUqy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-9" target="ilyXJhKC4yc5B9A9WUqy-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="189" y="208" width="90" height="32" as="geometry" />
         </mxCell>
@@ -48,7 +51,7 @@
           <mxGeometry x="362" y="184" width="89" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="270" width="120" height="40" as="geometry" />
+          <mxGeometry x="174" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
