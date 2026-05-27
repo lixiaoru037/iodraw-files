@@ -10,11 +10,13 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;scRNA-Seq&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;HAR003483&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-4" target="ilyXJhKC4yc5B9A9WUqy-9">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="168" as="sourcePoint" />
+            <mxPoint x="230" y="192" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="170" />
-              <mxPoint x="230" y="170" />
+              <mxPoint x="345" y="172" />
+              <mxPoint x="230" y="172" />
             </Array>
           </mxGeometry>
         </mxCell>
