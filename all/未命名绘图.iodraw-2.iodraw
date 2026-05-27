@@ -121,7 +121,7 @@
           <mxGeometry x="209.5" y="526" width="69" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-45" value="AddModuleScore" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
-          <mxGeometry x="380" y="526" width="69" height="14" as="geometry" />
+          <mxGeometry x="385" y="525" width="69" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
