@@ -124,7 +124,7 @@
           <mxGeometry x="384" y="525" width="69" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-48" value="DESeq2&lt;div&gt;ggpubr&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
-          <mxGeometry x="505" y="525" width="69" height="14" as="geometry" />
+          <mxGeometry x="508" y="525" width="69" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
