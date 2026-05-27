@@ -102,7 +102,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-33" value="Bulk RNA-Seq：&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;The abundance&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;of C1QC+ TAM cells&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-36" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-36" value="GEO dataset" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-37" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
