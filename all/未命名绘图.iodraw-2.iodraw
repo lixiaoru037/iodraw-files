@@ -99,6 +99,9 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-31" target="ilyXJhKC4yc5B9A9WUqy-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-31" target="ilyXJhKC4yc5B9A9WUqy-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-31" value="TAM-signatures" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="490" width="110" height="30" as="geometry" />
         </mxCell>
@@ -111,7 +114,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-37" value="GSE174574(scRNA-seq data)：&lt;div&gt;&lt;b&gt;Gene set score&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-38" value="our bulk RNA-seq data：" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-40" value="BayesPrism" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
