@@ -34,13 +34,14 @@
           <mxGeometry x="179" y="208" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-12" value="7 Tumor subpopulations（&lt;span style=&quot;font-size: 10px; text-align: left;&quot;&gt;Epithelial cells&lt;/span&gt;）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="401" y="201" width="110" height="49" as="geometry" />
+          <mxGeometry x="400" y="208" width="110" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.547;entryY=-0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-4" target="ilyXJhKC4yc5B9A9WUqy-12">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-4" target="ilyXJhKC4yc5B9A9WUqy-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="345" y="180" />
               <mxPoint x="460" y="180" />
+              <mxPoint x="460" y="208" />
             </Array>
           </mxGeometry>
         </mxCell>
