@@ -105,7 +105,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-36" value="GEO datasets and our bulk RNA-seq data：&lt;div&gt;&lt;b&gt;Gene set score&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="217" y="560" width="124" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-37" value="GSE174574(scRNA-seq data)：&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-37" value="GSE174574(scRNA-seq data)：&lt;div&gt;&lt;b&gt;Gene set score&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-38" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
