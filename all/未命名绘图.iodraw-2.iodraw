@@ -23,7 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="180" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-12" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
