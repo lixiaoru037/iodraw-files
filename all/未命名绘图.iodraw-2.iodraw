@@ -12,11 +12,11 @@
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="345" y="168" as="sourcePoint" />
-            <mxPoint x="230" y="192" as="targetPoint" />
+            <mxPoint x="344" y="166" as="sourcePoint" />
+            <mxPoint x="229" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="345" y="172" />
-              <mxPoint x="230" y="172" />
+              <mxPoint x="344" y="170" />
+              <mxPoint x="229" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -32,8 +32,8 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-4" target="ilyXJhKC4yc5B9A9WUqy-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="120" height="60" as="geometry" />
