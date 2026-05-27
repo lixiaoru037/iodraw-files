@@ -51,7 +51,12 @@
           <mxGeometry x="362" y="184" width="89" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-20" target="ilyXJhKC4yc5B9A9WUqy-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="234" y="330" />
+              <mxPoint x="345" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="280" width="120" height="40" as="geometry" />
@@ -60,7 +65,7 @@
           <mxGeometry x="238" y="250" width="142" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="CellChat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="343" width="65" height="30" as="geometry" />
+          <mxGeometry x="312.5" y="350" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
