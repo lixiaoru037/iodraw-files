@@ -56,8 +56,8 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-22" value="AddModuleScore&lt;div&gt;5 special signaling pathways&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="238" y="250" width="142" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="343" width="120" height="40" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="CellChat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="343" width="65" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
