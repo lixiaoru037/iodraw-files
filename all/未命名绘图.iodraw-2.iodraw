@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="176" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-22" value="AddModuleScore&lt;div&gt;5 special signaling pathways&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="238" y="250" width="142" height="14" as="geometry" />
@@ -126,8 +126,11 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-48" value="DESeq2&lt;div&gt;ggpubr&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="581" y="526" width="69" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-9" target="ilyXJhKC4yc5B9A9WUqy-20">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228.5" y="240" as="sourcePoint" />
+            <mxPoint x="232.74" y="279.20000000000005" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
