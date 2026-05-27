@@ -48,7 +48,7 @@
           <mxGeometry x="362" y="184" width="89" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="174" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
