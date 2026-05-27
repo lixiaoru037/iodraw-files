@@ -81,8 +81,8 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-28" value="All celltypes&amp;nbsp;&lt;div&gt;in the tumor group&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="351" y="336" width="142" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-29" value="GH signaling pathway:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="414" width="125" height="60" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-29" value="GH signaling pathway:&lt;div&gt;C1QC+ macrophages-&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; background-color: initial;&quot;&gt;tumor_Epi_cluster4&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="414" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
