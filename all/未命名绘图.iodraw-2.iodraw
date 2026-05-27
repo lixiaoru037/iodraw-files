@@ -123,12 +123,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-45" value="AddModuleScore" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
           <mxGeometry x="384" y="524" width="69" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-48">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-48" value="DESeq2&lt;div&gt;ggpubr&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=left;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-48" value="DESeq2&lt;div&gt;ggpubr&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
           <mxGeometry x="581" y="526" width="69" height="14" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.527;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
