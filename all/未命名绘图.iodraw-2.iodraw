@@ -114,7 +114,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-40" value="BayesPrism" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
           <mxGeometry x="60" y="520" width="69" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-42" value="BayesPrism" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-42" value="ssGSEA" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
           <mxGeometry x="213.5" y="521" width="69" height="14" as="geometry" />
         </mxCell>
       </root>
