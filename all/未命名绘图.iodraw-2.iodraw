@@ -75,8 +75,8 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="CellChat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="360" width="65" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-28" value="All celltypes&amp;nbsp;&lt;div&gt;in the tumor group&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="348" y="336" width="142" height="14" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-28" value="All celltypes&amp;nbsp;&lt;div&gt;in the tumor group&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="326" y="336" width="142" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
