@@ -126,7 +126,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-45" value="AddModuleScore" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
           <mxGeometry x="385" y="525" width="69" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-47" value="AddModuleScore" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-47" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DESeq2&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=left;" vertex="1" parent="1">
           <mxGeometry x="560" y="525" width="69" height="14" as="geometry" />
         </mxCell>
       </root>
