@@ -44,6 +44,14 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="189" y="208" width="90" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-12" target="ilyXJhKC4yc5B9A9WUqy-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="455" y="330" />
+              <mxPoint x="345" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-12" value="7 Tumor subpopulations（&lt;span style=&quot;font-size: 10px; text-align: left;&quot;&gt;Epithelial cells&lt;/span&gt;）" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="410" y="204" width="90" height="49" as="geometry" />
         </mxCell>
