@@ -114,7 +114,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-37" value="GSE174574(scRNA-seq data)：&lt;div&gt;&lt;b&gt;Gene set score&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-38" value="our bulk RNA-seq data：&lt;div&gt;The difference in expression levels of these genes&lt;/div&gt;&lt;div&gt;The correlation between the gene set score and these gene expression level&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-38" value="our bulk RNA-seq data：&lt;div&gt;1. Differential expression analysis&lt;/div&gt;&lt;div&gt;2. Correlation between genes and the score of gene set&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="560" width="185" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-40" value="BayesPrism" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;align=right;" vertex="1" parent="1">
