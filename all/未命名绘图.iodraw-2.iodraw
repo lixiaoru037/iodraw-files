@@ -13,7 +13,7 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-4" value="4 Celltypes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="136" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-6" value="quality control&lt;div&gt;Dimensionality reduction and clustering&lt;/div&gt;&lt;div&gt;Cell type annotation&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-6" value="quality control&lt;div&gt;Dimensionality reduction and clustering&lt;/div&gt;&lt;div&gt;Cell type annotation&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;" vertex="1" parent="1">
           <mxGeometry x="350" y="92" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ilyXJhKC4yc5B9A9WUqy-1" target="ilyXJhKC4yc5B9A9WUqy-1">
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-9" value="8 macrophages&amp;nbsp;&lt;div&gt;subpopulations&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="180" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="180" y="207" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-12" value="7 Tumor subpopulations" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="400" y="207" width="110" height="30" as="geometry" />
