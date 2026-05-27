@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="v1rJ3lvFKSMc6NTR0iBa">
-    <mxGraphModel dx="442" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,9 @@
         </mxCell>
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-22" value="AddModuleScore&lt;div&gt;5 special signaling pathways&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="238" y="250" width="142" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="184" y="290" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
