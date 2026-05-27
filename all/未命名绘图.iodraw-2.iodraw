@@ -47,8 +47,8 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;CopyKAT a&lt;/font&gt;&lt;/span&gt;lgorithm" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="362" y="184" width="89" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-20" value="C1QC+ macrophages&lt;div&gt;FCN1+ macrophages&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
