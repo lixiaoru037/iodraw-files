@@ -75,6 +75,9 @@
         <mxCell id="ilyXJhKC4yc5B9A9WUqy-24" value="CellChat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="360" width="65" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ilyXJhKC4yc5B9A9WUqy-28" value="All celltypes in the tumor group" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="351" y="340" width="142" height="14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
