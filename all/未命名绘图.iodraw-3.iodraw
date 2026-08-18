@@ -165,6 +165,9 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-57" target="4PXlD097Jfdv73HZNY5H-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-57" target="4PXlD097Jfdv73HZNY5H-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-57" value="16 key therapeutic targets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="415.5" y="490" width="143" height="46" as="geometry" />
         </mxCell>
