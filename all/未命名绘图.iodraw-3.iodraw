@@ -221,11 +221,14 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-62" value="XGBoost" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="554" width="71.5" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-67" target="4PXlD097Jfdv73HZNY5H-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-67" value="9 Feature genes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420.13" y="620" width="133.75" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-72" value="Verification of expression levels" style="text;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="485" y="652" width="200" height="40" as="geometry" />
+          <mxGeometry x="494.25" y="652" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-73" value="3 potential markers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="421.25" y="690" width="133.75" height="32" as="geometry" />
