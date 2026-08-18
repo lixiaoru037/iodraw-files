@@ -57,7 +57,7 @@
           <mxGeometry x="210" y="124" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-13" value="983 metabolite targets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="244" width="115" height="30" as="geometry" />
+          <mxGeometry x="147.5" y="244" width="115" height="36" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-16" value="overlap" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="217" width="70" height="5" as="geometry" />
