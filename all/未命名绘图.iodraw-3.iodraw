@@ -17,7 +17,7 @@
           <mxGeometry x="67.5" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-6" value="SwisstTargetPrediction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="160" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
