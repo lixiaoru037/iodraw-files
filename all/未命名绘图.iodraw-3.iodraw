@@ -94,6 +94,9 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-28" value="|log2foldchange|&gt;0.5&amp;&#xa;padj&lt;0.05" style="text;whiteSpace=wrap;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="422" y="206.5" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-29" target="4PXlD097Jfdv73HZNY5H-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;114 Gut-IgA nephropathy genes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="331" width="207.5" height="33.5" as="geometry" />
         </mxCell>
@@ -138,7 +141,7 @@
           <mxGeometry x="653.5" y="290.5" width="126.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-51" value="62 therapeutic targets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="427" y="414" width="120" height="46" as="geometry" />
+          <mxGeometry x="427" y="400" width="120" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
