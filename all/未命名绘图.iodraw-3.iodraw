@@ -64,32 +64,32 @@
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-19" target="4PXlD097Jfdv73HZNY5H-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="474.9047619047618" y="90" as="targetPoint" />
+            <mxPoint x="474.9047619047618" y="91" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;GSE37460&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;GSE93798&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="20" width="90" height="45" as="geometry" />
+          <mxGeometry x="430" y="21" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-21" target="4PXlD097Jfdv73HZNY5H-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train dataset&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100" width="90" height="33.5" as="geometry" />
+          <mxGeometry x="430" y="101" width="90" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="90" height="33.5" as="geometry" />
+          <mxGeometry x="430" y="181" width="90" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-27" value="limma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="40" height="40" as="geometry" />
+          <mxGeometry x="480" y="141" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-28" value="|log2foldchange|&gt;0.5&amp;&#xa;padj&lt;0.05" style="text;whiteSpace=wrap;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="344" y="137.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;804DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="90" height="33.5" as="geometry" />
+          <mxGeometry x="310" y="311" width="90" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
