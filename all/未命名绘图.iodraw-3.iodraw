@@ -159,8 +159,8 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-56" value="GraphBAN" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="500" y="380" width="126.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-57" value="62 therapeutic targets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="422" y="480" width="120" height="46" as="geometry" />
+        <mxCell id="4PXlD097Jfdv73HZNY5H-57" value="16 key therapeutic targets" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="427" y="480" width="143" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
