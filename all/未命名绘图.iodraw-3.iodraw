@@ -10,7 +10,7 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-1" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;gutMGene&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-2" value="" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+        <mxCell id="4PXlD097Jfdv73HZNY5H-2" value="Gut Microbe-Microbial metabolite(human)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
