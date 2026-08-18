@@ -134,6 +134,14 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-45" value="Integration" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="617" y="260.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-46" target="4PXlD097Jfdv73HZNY5H-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="384" />
+              <mxPoint x="487" y="384" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;54 effective active ingredients&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="572.25" y="315" width="149.5" height="49" as="geometry" />
         </mxCell>
