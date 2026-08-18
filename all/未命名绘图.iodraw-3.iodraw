@@ -62,7 +62,7 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-16" value="overlap" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="217" width="70" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-19">
+        <mxCell id="4PXlD097Jfdv73HZNY5H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-19" target="4PXlD097Jfdv73HZNY5H-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="474.9047619047618" y="90" as="targetPoint" />
           </mxGeometry>
@@ -74,7 +74,10 @@
           <mxGeometry x="430" y="100" width="90" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="490" y="50.5" width="210" height="40" as="geometry" />
+          <mxGeometry x="480" y="60" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;Train dataset&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="90" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
