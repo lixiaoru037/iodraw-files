@@ -62,8 +62,8 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-16" value="overlap" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="217" width="70" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;gutMGene&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="170" y="30" width="90" height="30" as="geometry" />
+        <mxCell id="4PXlD097Jfdv73HZNY5H-19" value="&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;GSE37460&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: 15px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px;&quot;&gt;GSE93798&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
