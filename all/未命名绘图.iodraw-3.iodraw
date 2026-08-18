@@ -79,7 +79,7 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="180" width="90" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-27" value="limma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
@@ -89,7 +89,7 @@
           <mxGeometry x="344" y="137.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;804DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="90" height="33.5" as="geometry" />
+          <mxGeometry x="320" y="310" width="90" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
