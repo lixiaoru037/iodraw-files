@@ -99,8 +99,8 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-28" value="|log2foldchange|&gt;0.5&amp;&#xa;padj&lt;0.05" style="text;whiteSpace=wrap;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="422" y="206.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;804Gut-IgA nephropathy gene&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="320" width="90" height="33.5" as="geometry" />
+        <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 Gut-IgA nephropathy gene&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="320" width="207.5" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
