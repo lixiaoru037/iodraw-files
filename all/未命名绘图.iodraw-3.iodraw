@@ -98,7 +98,10 @@
           <mxGeometry x="219.5" y="331" width="207.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Chinese medicinal formulae&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="530" y="246.5" width="140" height="33.5" as="geometry" />
+          <mxGeometry x="560" y="213" width="140" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-40" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="387" y="256.5" width="90" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
