@@ -129,10 +129,10 @@
           <mxGeometry x="677" y="246.5" width="65" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-45" value="Integration" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="617" y="276.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="617" y="272.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;54 effective active ingredients&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="572.25" y="323.25" width="149.5" height="49" as="geometry" />
+          <mxGeometry x="572.25" y="331" width="149.5" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
