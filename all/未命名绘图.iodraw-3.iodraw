@@ -98,6 +98,14 @@
           <mxGeometry x="219.5" y="331" width="207.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-39" target="4PXlD097Jfdv73HZNY5H-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="647" y="230" />
+              <mxPoint x="579" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-39" target="4PXlD097Jfdv73HZNY5H-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;Chinese medicinal formulae&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
