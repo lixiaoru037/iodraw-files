@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="HZJAtcToG4m72tv9jCe0">
-    <mxGraphModel dx="369" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="124" dy="68" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,6 +56,9 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-11" value="Predicted targets" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="124" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-13" target="4PXlD097Jfdv73HZNY5H-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-13" value="983 metabolite targets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="244" width="115" height="36" as="geometry" />
         </mxCell>
@@ -78,6 +81,11 @@
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="427" y="126.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4PXlD097Jfdv73HZNY5H-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="377" y="246.5" width="90" height="33.5" as="geometry" />
