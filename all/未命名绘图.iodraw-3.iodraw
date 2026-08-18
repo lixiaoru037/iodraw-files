@@ -13,10 +13,15 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-2" target="4PXlD097Jfdv73HZNY5H-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="4PXlD097Jfdv73HZNY5H-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4PXlD097Jfdv73HZNY5H-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="127.5" y="175" as="targetPoint" />
             <mxPoint x="202.5" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="181" y="151" />
+              <mxPoint x="181" y="145" />
+              <mxPoint x="128" y="145" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-2" value="Gut Microbe-Microbial metabolite(human)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
