@@ -77,13 +77,13 @@
           <mxGeometry x="430" y="100" width="90" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="60" width="210" height="40" as="geometry" />
+          <mxGeometry x="480" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="160" width="90" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-27" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="480" y="124" width="210" height="40" as="geometry" />
+        <mxCell id="4PXlD097Jfdv73HZNY5H-27" value="limma" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
