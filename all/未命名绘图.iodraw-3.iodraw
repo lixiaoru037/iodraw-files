@@ -56,14 +56,6 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-11" value="Predicted targets" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="124" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-13" target="4PXlD097Jfdv73HZNY5H-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="205" y="300" />
-              <mxPoint x="328" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-13" value="983 metabolite targets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="244" width="115" height="36" as="geometry" />
         </mxCell>
@@ -87,9 +79,6 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-22" value="Merge and &#xa;remove batch effects" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="427" y="126.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4PXlD097Jfdv73HZNY5H-25" target="4PXlD097Jfdv73HZNY5H-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4PXlD097Jfdv73HZNY5H-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;804 DEGs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="377" y="246.5" width="90" height="33.5" as="geometry" />
         </mxCell>
@@ -99,8 +88,8 @@
         <mxCell id="4PXlD097Jfdv73HZNY5H-28" value="|log2foldchange|&gt;0.5&amp;&#xa;padj&lt;0.05" style="text;whiteSpace=wrap;fontStyle=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="422" y="206.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;114 Gut-IgA nephropathy gene&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="282.5" y="320" width="207.5" height="33.5" as="geometry" />
+        <mxCell id="4PXlD097Jfdv73HZNY5H-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;114 Gut-IgA nephropathy genes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="320" width="207.5" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
